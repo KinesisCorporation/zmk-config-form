@@ -7,7 +7,7 @@ manifest:
   projects:
     - name: zmk
       remote: refil
-      revision: Form-studio-2
+      revision: form-mouse
       import: app/west.yml
   self:
     path: config
